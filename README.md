@@ -1,4 +1,4 @@
-# 1ACC0216 - TB1 - 2025-1
+# 1ACC0216 - TB1 - 2026-1
 
 ## Objetivo del trabajo
 El propósito de este trabajo es realizar un Análisis Exploratorio de Datos (EDA) centrado en la industria hotelera utilizando el lenguaje de programación R. El objetivo principal consiste en aplicar técnicas de ciencia de datos para limpiar, inspeccionar y visualizar patrones de demanda reales de negocio que permitan optimizar la gestión de ingresos (Revenue Management) y la toma de decisiones operativas dentro del sector.
