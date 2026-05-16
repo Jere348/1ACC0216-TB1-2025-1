@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_interiores.png" alt="Logo UPC" width="300"/>
+  <img src="https://repositorioacademico.upc.edu.pe/themes/Mirage2/images/upc-header-logo.png" alt="Logo UPC" width="350"/>
 </p>
 
 # 1ACC0216 - Fundamentos de Data Science (TB1)
